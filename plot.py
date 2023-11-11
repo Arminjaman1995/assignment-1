@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Data Source: https://github.com/fivethirtyeight/data/blob/master/terrorism/country_stats_1993_appendix2.csv
+# Data Source: https://github.com/fivethirtyeight/data/blob/master/terrorism/eu_terrorism_fatalities_by_country.csv
 # Load data from CSV file into a pandas DataFrame
 pandas_df = pd.read_csv("./eu_terrorism_fatalities_by_country.csv")
 
